@@ -12,7 +12,7 @@ sns.set(style='white')
 
 # Load Datapy
 #dataset = pd.read_csv(r'C:\Users\Admin\AVSCODE\CICD\code-2\iris.csv')
-dataset = pd.read_csv(r'D:\AI Course Naresh\6-9-2025\New folder (4)\New folder\code-2\iris.csv')
+dataset = pd.read_csv(r'iris.csv')
 #D:\AI Course Naresh\6-9-2025\New folder (4)\New folder\code-2\test.py
 
 
